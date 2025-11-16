@@ -8,7 +8,6 @@ dependencies.lock
 managed_components/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
